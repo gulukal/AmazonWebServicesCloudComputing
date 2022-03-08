@@ -41,3 +41,49 @@ Scalable Storage in the Cloud
 
 > ``EFS``
 Managed File Storage for EC2
+
+> ``S3 Glacier``
+Archive Storage in the Cloud
+
+> ``Storage Gateway``
+Hybrid Storage Integration
+
+### Database 
+> ``RDS``
+Managed Relational Database Service (SQL)
+
+> ``DynamoDB``
+Managed NoSQL Database
+
+> ``Amazon DocumentDB``
+Fully-managed MongoDB-compatible database service
+
+> ``ElastiCache``
+In-Memory Cache
+
+> ``Neptune``
+Fast, reliable graph database built for the cloud
+> ``S3``
+Scalable Storage in the Cloud
+
+> ``Amazon Timestream``
+Amazon Timestream is a fast, scalable, and serverless time series database for IoT and operational applications.
+
+### Networking & Content Delivery 
+> ``VPC``
+Isolated Cloud Resources
+
+> ``CloudFront``
+Global Content Delivery Network
+
+> ``Route 53``
+Scalable DNS and Domain Name Registration
+
+> ``API Gateway``
+Build, Deploy and Manage APIs
+
+> ``Direct Connect``
+Dedicated Network Connection to AWS
+
+### Migration & Transfer
+
