@@ -86,4 +86,26 @@ Build, Deploy and Manage APIs
 Dedicated Network Connection to AWS
 
 ### Migration & Transfer
+> ``AWS Migration Hub``
+Simplify and accelerate the migration of your data centers to AWS.
 
+> ``Application Discovery Service``
+Discover on-premises application inventory and dependencies.
+
+> ``AWS Application Migration Service``
+AWS Application Migration Service (MGN) automates lift-and-shift migration.
+
+> ``Database Migration Service``
+Managed Database Migration Service
+
+> ``DataSync``
+DataSync simplifies, automates, and accelerates moving data
+
+> ``Server Migration Service``
+Migrate on-premises servers to AWS
+
+> ``AWS Snow Family``
+Large Scale Data Transport with snow pc
+
+> ``AWS Transfer Family``
+Fully managed support for SFTP, FTPS and FTP
