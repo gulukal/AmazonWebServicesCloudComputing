@@ -109,3 +109,43 @@ Large Scale Data Transport with snow pc
 
 > ``AWS Transfer Family``
 Fully managed support for SFTP, FTPS and FTP
+
+### Security, Identity, & Compliance
+> ``IAM``
+Manage access to AWS resources.(Identity and access management)
+
+> ``Cognito``
+Consumer Identity Management and AWS Credentials for Federated Identities.
+
+> ``GuardDuty``
+Intelligent Threat Detection to Protect Your AWS Accounts and Workloads.
+
+> ``Secrets Manager``
+Easily rotate, manage, and retrieve secrets throughout their lifecycle.
+
+> ``Inspector``
+Analyze Application Security.
+
+> ``Amazon Macie``
+Amazon Macie classifies and secures your business-critical content.
+
+> ``AWS Single Sign-On``
+Manage Single Sign-On (SSO) Access to AWS Accounts and Business Applications.
+
+> ``Certificate Manager``
+Provision, Manage, and Deploy SSL/TLS Certificates.
+
+> ``CloudHSM``
+Managed Hardware Security Modules in the Cloud.
+
+> ``Directory Service``
+Host and Manage Active Directory.
+
+> ``AWS Firewall Manager``
+Central management of firewall rules.
+
+> ``Artifact``
+AWS Compliance Reports and Agreements.
+
+
+
