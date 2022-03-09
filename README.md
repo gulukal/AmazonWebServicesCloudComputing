@@ -161,4 +161,44 @@ AWS Compliance Reports and Agreements.
 Coordinate Distributed Applications.
 
 > ``Amazon MQ``
+Managed message broker service for Apache ActiveMQ and RabbitMQ.\
+### Application Integration
+> ``Simple Queue Service``
+SQS Managed Message Queues. This was the first service in aws.
+
+> ``Simple Notification Service``
+SNS managed message topics for Pub/Sub.
+
+> ``SWF``
+AWS Compliance Reports and Agreements.
+
+> ``Step Functions``
+Coordinate Distributed Applications.
+
+> ``Amazon MQ``
 Managed message broker service for Apache ActiveMQ and RabbitMQ.
+
+### Analytics
+> ``Athena``
+Query Data in S3 using SQL.
+
+> ``EMR ElasticMapReduce``
+Managed Hadoop Framework.
+
+> ``CloudSearch``
+Managed Search Service.  // you can do geographical search with tis service !!!
+
+> ``Amazon OpenSearch Service (successor to Amazon Elasticsearch Service)``
+Run and Scale OpenSearch and Elasticsearch Clusters (successor to Amazon Elasticsearch Service)
+
+> ``QuickSight``
+Fast, easy to use business analytics.
+
+> ``Data Pipeline``
+Orchestration for Data-Driven Workflows // move data from service to service and manipulate it while moving.
+
+> ``Kinesis``
+Work with Real-Time Streaming Data.
+
+> ``AWS Glue``
+AWS Glue is a fully managed ETL (extract, transform, and load) service.
