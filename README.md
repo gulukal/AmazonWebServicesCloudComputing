@@ -147,5 +147,18 @@ Central management of firewall rules.
 > ``Artifact``
 AWS Compliance Reports and Agreements.
 
+### Application Integration
+> ``Simple Queue Service``
+SQS Managed Message Queues. This was the first service in aws.
 
+> ``Simple Notification Service``
+SNS managed message topics for Pub/Sub.
 
+> ``SWF``
+AWS Compliance Reports and Agreements.
+
+> ``Step Functions``
+Coordinate Distributed Applications.
+
+> ``Amazon MQ``
+Managed message broker service for Apache ActiveMQ and RabbitMQ.
